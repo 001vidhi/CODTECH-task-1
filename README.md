@@ -51,3 +51,7 @@ Error Handling:
 Managing common API errors and providing meaningful feedback to users.
 Responsive Web Design:
 Crafting a user-friendly interface that adapts to different screen sizes.
+
+output:
+![Screenshot 2024-12-18 212656](https://github.com/user-attachments/assets/53b2951f-ca36-414d-9b6e-ef8562d2426c)
+
